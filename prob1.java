@@ -14,7 +14,7 @@ public class prob1 {
     static WaitFreeList list;
 
     public static void main(String[] args){
-        n = 100000;
+        n = 500000;
 
         // Set up the static variables. The "unordered set" of gifts is just going to be
         // a random permutation, because really, a bunch of removals from an unordered set
